@@ -1,0 +1,11 @@
+{
+  "name": "puppeteer-tests",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:rohrlaf/puppeteer-tests.git",
+  "author": "Rohrlaf",
+  "license": "MIT",
+  "devDependencies": {
+    "prettier": "1.17.0"
+  }
+}
