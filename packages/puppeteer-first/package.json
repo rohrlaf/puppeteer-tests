@@ -3,5 +3,11 @@
   "version": "1.0.0",
   "main": "index.js",
   "author": "Rohrlaf",
-  "license": "MIT"
+  "license": "MIT",
+  "scripts": {
+    "start": "node ./src/example.js"
+  },
+  "devDependencies": {
+    "puppeteer": "1.15.0"
+  }
 }
