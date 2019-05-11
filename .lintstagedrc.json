@@ -1,0 +1,6 @@
+{
+  "chunkSize": 1,
+  "linters": {
+    "*.{js,json}": ["eslint --fix", "git add"]
+  }
+}
