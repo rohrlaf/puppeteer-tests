@@ -1,0 +1,7 @@
+{
+  "name": "puppeteer-first",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Rohrlaf",
+  "license": "MIT"
+}
